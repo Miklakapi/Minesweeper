@@ -34,6 +34,7 @@ To run this project, run:
 * Bot
 * Bomb counter
 * Interactive face
+* Automatic revealing of the field after clicking on the number, when the bombs are marked with flags
 
 ## Status
 The project's development has been completed.
